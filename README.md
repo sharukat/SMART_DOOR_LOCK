@@ -1,0 +1,2 @@
+# ATMega Microcontroller based Smart Door Lock
+This is an ATMega microcontroller based smart door lock programmed in C programming language. In this system, one the correct password is entered using the keypad, the door will get unlocked, while it will remain locked for invalid passwords displaying "Unauthorized Access" in the LCD display. Moreover, an SMS alert will be sent to the user via the GSM module.
